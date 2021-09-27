@@ -1,8 +1,8 @@
-function simpleTask() {
+function testtask() {
     console.log ('This is a test task!');
 }
 
-exports.default = simpleTask
+exports.default = testtask
 
 //////////////////////////////////////////////////////////////////////////
 
